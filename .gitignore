@@ -1,6 +1,5 @@
-
-/Data/Cache
-/Data/Lib/python33
-/Data/Index
+/Lib/*
+/Index/
 changelog.txt
-/Index
+*.cache
+/Cache
