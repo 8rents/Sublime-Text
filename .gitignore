@@ -3,3 +3,4 @@
 changelog.txt
 *.cache
 /Cache
+/Local
