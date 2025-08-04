@@ -1,6 +1,3 @@
-/Lib/*
-/Index/
-changelog.txt
-*.cache
-/Cache
-/Local
+Crash Reports/
+Lib/
+Local/
