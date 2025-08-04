@@ -5,7 +5,14 @@
 	],
 	"installed_packages":
 	[
+		"MarkdownLivePreview",
+		"MarkdownPreview",
+		"One Dark Material - Theme",
 		"Package Control",
+		"Package Syncing",
 		"PowerShell",
+		"Pretty YAML",
+		"SublimeLinter",
+		"SublimeLinter-contrib-yamllint",
 	],
 }
