@@ -1,6 +1,7 @@
 {
 	"ignored_packages":
 	[
+		"Package Control",
 		"Vintage",
 	],
 	"theme": "OneDarkMaterial.sublime-theme",
